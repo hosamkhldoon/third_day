@@ -1,0 +1,12 @@
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\bin\Debug\fourth_day.exe.config
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\bin\Debug\fourth_day.exe
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\bin\Debug\fourth_day.pdb
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\bin\Debug\fourth_day.xml
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\obj\Debug\fourth_day.vbproj.AssemblyReference.cache
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\obj\Debug\fourth_day.Create_File.resources
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\obj\Debug\fourth_day.Resources.resources
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\obj\Debug\fourth_day.vbproj.GenerateResource.cache
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\obj\Debug\fourth_day.vbproj.CoreCompileInputs.cache
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\obj\Debug\fourth_day.exe
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\obj\Debug\fourth_day.xml
+C:\Users\Hussam.Ibraheem\Desktop\training_task\fourth_day\fourth_day\obj\Debug\fourth_day.pdb
